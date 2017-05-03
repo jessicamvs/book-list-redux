@@ -1,6 +1,6 @@
-# Weather App
+# Book List App
 
-Built app by following along with [this Udemy course](https://www.udemy.com/react-redux/)?
+Built app by following along with the [Modern React with Redux](https://www.udemy.com/react-redux/) course on Udemy.
 
 ### Getting Started
 
